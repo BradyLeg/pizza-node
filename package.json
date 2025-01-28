@@ -1,0 +1,24 @@
+{
+  "name": "pizza-node",
+  "version": "1.0.0",
+  "description": "Node-fying the pizza app",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradyLeg/pizza-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradyLeg/pizza-node/issues"
+  },
+  "homepage": "https://github.com/BradyLeg/pizza-node#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
